@@ -100,7 +100,7 @@ const HangManDrawing = ({numberOfGuess}:hmdProps) => {
               width: "10px",
               background: "black",
               position: "absolute",
-              top: 0,
+              top:0,
               right:0
           }}/>
               <div style={{
