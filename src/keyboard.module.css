@@ -17,7 +17,7 @@
   }
   
   .btn.inactive {
-    opacity: .3;
+    opacity: .4;
   }
   
   .btn:hover:not(:disabled),
