@@ -10,7 +10,7 @@ const HangManWord = ({guessLetters,wordGuess,reveal =false}:HanmnWorprops) => {
   return (
       <div style={{
           display: "flex",
-          gap: ".25em",
+          gap: ".27em",
           fontSize: "6rem",
           fontWeight: "bold",
           textTransform: "uppercase",
